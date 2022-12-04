@@ -19,4 +19,7 @@ if __name__ == '__main__':
 import random 
 print(random.randint(1, 3))
 
+sttring=input(str("enter the string:-"))
+print(sttring)
+
 a = input("enter to exit")
