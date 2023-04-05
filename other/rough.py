@@ -59,9 +59,6 @@ print("thaankyu")
 print(d)
 '''
 
-print("hallow"<<30)
-
-
 
     
 
