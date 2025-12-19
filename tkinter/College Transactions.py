@@ -231,7 +231,7 @@ class Analyse(ttk.Frame):
 
 
 if __name__ == "__main__":
-    db = mysql.connector.connect(host='localhost', password='', user='', database="money")
+    db = mysql.connector.connect(host='localhost', password='12345aksaht', user='root', database="money")
     courser = db.cursor()
     if db.is_connected(): print("Connection successfully...")
     app = App()
